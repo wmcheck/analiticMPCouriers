@@ -1,0 +1,2138 @@
+[
+    {
+        "version": "3.5.16",
+        "time": "Mar 26, 2024 02:00",
+        "crash": null,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 5,
+            "meh": 43,
+            "poor": 52,
+            "p75": 5907
+          },
+          { 
+            "val": "LCP",
+            "good": 19,
+            "meh": 27,
+            "poor": 54,
+            "p75": 7466
+          },
+          {
+            "val": "FID",
+            "good": 82,
+            "meh": 10,
+            "poor": 8,
+            "p75": 80
+          },
+          { 
+            "val":"CLS",
+            "good": 44,
+            "meh": 0,
+            "poor": 56,
+            "p75": 0.42
+          }
+        ]    
+    },
+    {
+        "version": "3.6.0",
+        "time": "Apr 4, 2024 12:22",
+        "crash": null,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 5,
+            "meh": 41,
+            "poor": 54,
+            "p75": 6143
+          },
+          { 
+            "val": "LCP",
+            "good": 19,
+            "meh": 24,
+            "poor": 57,
+            "p75": 8036
+          },
+          {
+            "val": "FID",
+            "good": 83,
+            "meh": 17,
+            "poor": 0,
+            "p75": 56
+          },
+          { 
+            "val":"CLS",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 0.31
+          }
+        ]    
+      },
+    {
+        "version": "3.6.1",
+        "time": "Apr 5, 2024 01:39",
+        "crash": null,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 6,
+            "meh": 44,
+            "poor": 50,
+            "p75": 5839
+          },
+          { 
+            "val": "LCP",
+            "good": 21,
+            "meh": 26,
+            "poor": 54,
+            "p75": 7410
+          },
+          {
+            "val": "FID",
+            "good": 77,
+            "meh": 8,
+            "poor": 15,
+            "p75": 83
+          },
+          { 
+            "val":"CLS",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 0.01
+          }
+        ]    
+      },
+      {
+        "version": "4.0.0",
+        "time": "Apr 18, 2024 01:30",
+        "crash": null,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 11,
+            "meh": 57,
+            "poor": 32,
+            "p75": 3683
+          },
+          { 
+            "val": "LCP",
+            "good": 52,
+            "meh": 25,
+            "poor": 23,
+            "p75": 3846
+          },
+          {
+            "val": "FID",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 71
+          },
+          { 
+            "val":"CLS",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 0.00
+          }
+        ]
+      },
+      {
+        "version": "4.0.1",
+        "time": "Apr 22, 2024 01:52",
+        "crash": null,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 15,
+            "meh": 56,
+            "poor": 29,
+            "p75": 3398
+          },
+          { 
+            "val": "LCP",
+            "good": 58,
+            "meh": 21,
+            "poor": 21,
+            "p75": 3582
+          },
+          {
+            "val": "FID",
+            "good": 88,
+            "meh": 0,
+            "poor": 12,
+            "p75": 40
+          },
+          { 
+            "val":"CLS",
+            "good": 75,
+            "meh": 0,
+            "poor": 25,
+            "p75": 0.22
+          }
+        ]
+      },
+        {
+        "version": "4.0.3",
+        "time": "Apr 26, 2024 03:52",
+        "crash": 5,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 17,
+            "meh": 55,
+            "poor": 28,
+            "p75": 3227
+          },
+          { 
+            "val": "LCP",
+            "good": 60,
+            "meh": 20,
+            "poor": 20,
+            "p75": 3468
+          },
+          {
+            "val": "FID",
+            "good": 83,
+            "meh": 4,
+            "poor": 13,
+            "p75": 56
+          },
+          { 
+            "val":"CLS",
+            "good": 60,
+            "meh": 0,
+            "poor": 40,
+            "p75": 0.25
+          }
+        ]
+      },
+        {
+        "version": "4.1.3",
+        "time": "May 15, 2024 3:45",
+        "crash": 33,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 12,
+            "meh": 57,
+            "poor": 31,
+            "p75": 3482
+          },
+          { 
+            "val": "LCP",
+            "good": 52,
+            "meh": 25,
+            "poor": 23,
+            "p75": 3736
+          },
+          {
+            "val": "FID",
+            "good": 90,
+            "meh": 0,
+            "poor": 10,
+            "p75": 61
+          },
+          { 
+            "val":"CLS",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 0
+          }
+        ]
+      },
+      {
+        "version": "4.1.4",
+        "time": "May 16, 2024 12:29",
+        "crash": 7,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 15,
+            "meh": 58,
+            "poor": 27,
+            "p75": 3140
+          },
+          { 
+            "val": "LCP",
+            "good": 60,
+            "meh": 21,
+            "poor": 19,
+            "p75": 3376
+          },
+          {
+            "val": "FID",
+            "good": 88,
+            "meh": 2,
+            "poor": 10,
+            "p75": 43
+          },
+          { 
+            "val":"CLS",
+            "good": 25,
+            "meh": 0,
+            "poor": 75,
+            "p75": 0.51
+          }
+        ]
+      }
+      ,
+      {
+        "version": "4.1.5",
+        "time": "May 17, 2024 03:01",
+        "crash": 94,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 15,
+            "meh": 56,
+            "poor": 29,
+            "p75": 3356
+          },
+          { 
+            "val": "LCP",
+            "good": 56,
+            "meh": 23,
+            "poor": 21,
+            "p75": 3620
+          },
+          {
+            "val": "FID",
+            "good": 72,
+            "meh": 9,
+            "poor": 19,
+            "p75": 142
+          },
+          { 
+            "val":"CLS",
+            "good": 43,
+            "meh": 0,
+            "poor": 57,
+            "p75": 0.44
+          }
+        ]
+      }
+        ,
+      {
+        "version": "4.2.1",
+        "time": "May 24, 2024 12:25",
+        "crash": 95.66,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 17,
+            "meh": 56,
+            "poor": 27,
+            "p75": 3140
+          },
+          { 
+            "val": "LCP",
+            "good": 60,
+            "meh": 20,
+            "poor": 20,
+            "p75": 3419
+          },
+          {
+            "val": "FID",
+            "good": 78,
+            "meh": 19,
+            "poor": 4,
+            "p75": 48
+          },
+          { 
+            "val":"CLS",
+            "good": 50,
+            "meh": 0,
+            "poor": 50,
+            "p75": 0.35
+          }
+        ]
+      },
+      {
+        "version": "4.3.5",
+        "time": "Jun 6, 2024 07:57",
+        "crash": 99.98,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 22,
+            "meh": 56,
+            "poor": 22,
+            "p75": 2767
+          },
+          { 
+            "val": "LCP",
+            "good": 63,
+            "meh": 19,
+            "poor": 18,
+            "p75": 3188
+          },
+          {
+            "val": "FID",
+            "good": 87,
+            "meh": 3,
+            "poor": 10,
+            "p75": 32
+          },
+          { 
+            "val":"CLS",
+            "good": 98,
+            "meh": 0,
+            "poor": 2,
+            "p75": 0.00
+          }
+        ]
+      },
+      {
+        "version": "4.4.0",
+        "time": "Jun 11, 2024 07:37",
+        "crash": 99.969,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 21,
+            "meh": 58,
+            "poor": 21,
+            "p75": 2781
+          },
+          { 
+            "val": "LCP",
+            "good": 64,
+            "meh": 23,
+            "poor": 13,
+            "p75": 3013
+          },
+          {
+            "val": "FID",
+            "good": 91,
+            "meh": 0,
+            "poor": 9,
+            "p75": 30
+          },
+          { 
+            "val":"CLS",
+            "good": 99,
+            "meh": 0,
+            "poor": 1,
+            "p75": 0.00
+          }
+        ]
+      },
+      {
+        "version": "4.5.0",
+        "time": "Jun 25, 2024 12:12",
+        "crash": 99.971,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 15,
+            "meh": 58,
+            "poor": 27,
+            "p75": 3154
+          },
+          { 
+            "val": "LCP",
+            "good": 61,
+            "meh": 23,
+            "poor": 17,
+            "p75": 3305
+          },
+          {
+            "val": "FID",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 41
+          },
+          { 
+            "val":"CLS",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 0.00
+          }
+        ]
+      },
+      {
+        "version": "4.5.2",
+        "time": "Jun 28, 2024 18:18",
+        "crash": 99.977,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 22,
+            "meh": 56,
+            "poor": 22,
+            "p75": 2854
+          },
+          { 
+            "val": "LCP",
+            "good": 63,
+            "meh": 21,
+            "poor": 16,
+            "p75": 3090
+          },
+          {
+            "val": "FID",
+            "good": 80,
+            "meh": 3,
+            "poor": 17,
+            "p75": 56
+          },
+          { 
+            "val":"CLS",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 0.00
+          }
+        ]
+      },
+      {
+        "version": "4.5.3",
+        "time": "Jul 2, 2024 16:00",
+        "crash": 99.965,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 21,
+            "meh": 56,
+            "poor": 23,
+            "p75": 2882
+          },
+          { 
+            "val": "LCP",
+            "good": 63,
+            "meh": 22,
+            "poor": 15,
+            "p75": 3079
+          },
+          {
+            "val": "FID",
+            "good": 83,
+            "meh": 0,
+            "poor": 17,
+            "p75": 53
+          },
+          { 
+            "val":"CLS",
+            "good": 99,
+            "meh": 0,
+            "poor": 1,
+            "p75": 0.00
+          }
+        ]
+      },
+      {
+        "version": "4.6.0",
+        "time": "Jul 9, 2024 09:49",
+        "crash": 99.976,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 14,
+            "meh": 64,
+            "poor": 22,
+            "p75": 2808
+          },
+          { 
+            "val": "LCP",
+            "good": 64,
+            "meh": 20,
+            "poor": 16,
+            "p75": 2969
+          },
+          {
+            "val": "FID",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 39
+          },
+          { 
+            "val":"CLS",
+            "good": 94,
+            "meh": 0,
+            "poor": 6,
+            "p75": 0.00
+          }
+        ]
+      },
+      {
+        "version": "4.6.1",
+        "time": "Jul 12, 2024 14:26",
+        "crash": 99.977,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 20,
+            "meh": 58,
+            "poor": 22,
+            "p75": 2759
+          },
+          { 
+            "val": "LCP",
+            "good": 64,
+            "meh": 21,
+            "poor": 15,
+            "p75": 3019
+          },
+          {
+            "val": "FID",
+            "good": 75,
+            "meh": 7,
+            "poor": 18,
+            "p75": 66
+          },
+          { 
+            "val":"CLS",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 0
+          }
+        ]
+      },
+      {
+        "version": "4.6.2",
+        "time": "Jul 18, 2024 19:05",
+        "crash": 99.983,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 23,
+            "meh": 58,
+            "poor": 20,
+            "p75": 2644
+          },
+          { 
+            "val": "LCP",
+            "good": 68,
+            "meh": 19,
+            "poor": 13,
+            "p75": 2909
+          },
+          {
+            "val": "FID",
+            "good": 78,
+            "meh": 3,
+            "poor": 19,
+            "p75": 45
+          },
+          { 
+            "val":"CLS",
+            "good": 98,
+            "meh": 0,
+            "poor": 2,
+            "p75": 0
+          }
+        ]
+      },
+      {
+        "version": "4.7.0",
+        "time": "Jul 23, 2024 13:00",
+        "crash": 99.983,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 79,
+            "meh": 16,
+            "poor": 5,
+            "p75": 783
+          },
+          { 
+            "val": "LCP",
+            "good": 93,
+            "meh": 7,
+            "poor": 0,
+            "p75": 789
+          },
+          {
+            "val": "FID",
+            "good": 75,
+            "meh": 25,
+            "poor": 0,
+            "p75": 85
+          },
+          { 
+            "val":"CLS",
+            "good": 94,
+            "meh": 0,
+            "poor": 6,
+            "p75": 0
+          }
+        ]
+      },
+      {
+        "version": "4.7.1",
+        "time": "Jul 26, 2024 14:33",
+        "crash": 99.896,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 88,
+            "meh": 11,
+            "poor": 1,
+            "p75": 643
+          },
+          { 
+            "val": "LCP",
+            "good": 99,
+            "meh": 1,
+            "poor": 0,
+            "p75": 846
+          },
+          {
+            "val": "FID",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 18
+          },
+          { 
+            "val":"CLS",
+            "good": 98,
+            "meh": 0,
+            "poor": 2,
+            "p75": 0
+          }
+        ]
+      },
+      {
+        "version": "4.7.2",
+        "time": "Jul 29, 2024 14:51",
+        "crash": 99.896,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 90,
+            "meh": 9,
+            "poor": 1,
+            "p75": 576
+          },
+          { 
+            "val": "LCP",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 721
+          },
+          {
+            "val": "FID",
+            "good": 88,
+            "meh": 12,
+            "poor": 0,
+            "p75": 21
+          },
+          { 
+            "val":"CLS",
+            "good": 97,
+            "meh": 0,
+            "poor": 3,
+            "p75": 0.00
+          }
+        ]
+      },
+      {
+        "version": "4.7.3",
+        "time": "Jul 30, 2024 21:00",
+        "crash": 99.955,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 78,
+            "meh": 18,
+            "poor": 4,
+            "p75": 882
+          },
+          { 
+            "val": "LCP",
+            "good": 88,
+            "meh": 8,
+            "poor": 4,
+            "p75": 1450
+          },
+          {
+            "val": "FID",
+            "good": 98,
+            "meh": 2,
+            "poor": 0,
+            "p75": 26
+          },
+          { 
+            "val":"CLS",
+            "good": 97,
+            "meh": 0,
+            "poor": 3,
+            "p75": 0.00
+          }
+        ]
+      }
+      ,
+      {
+        "version": "4.7.4",
+        "time": "Aug 5, 2024 13:25",
+        "crash": 99.952,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 91,
+            "meh": 6,
+            "poor": 3,
+            "p75": 682
+          },
+          { 
+            "val": "LCP",
+            "good": 99,
+            "meh": 1,
+            "poor": 0,
+            "p75": 707
+          },
+          {
+            "val": "FID",
+            "good": 94,
+            "meh": 0,
+            "poor": 6,
+            "p75": 24
+          },
+          { 
+            "val":"CLS",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 0.00
+          }
+        ]
+      } 
+        ,
+      {
+        "version": "4.8.0",
+        "time": "Aug 7, 2024 12:00",
+        "crash": 99.96,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 87,
+            "meh": 12,
+            "poor": 1,
+            "p75": 703
+          },
+          { 
+            "val": "LCP",
+            "good": 97,
+            "meh": 0,
+            "poor": 3,
+            "p75": 904
+          },
+          {
+            "val": "FID",
+            "good": 92,
+            "meh": 8,
+            "poor": 0,
+            "p75": 33
+          },
+          { 
+            "val":"CLS",
+            "good": 99,
+            "meh": 0,
+            "poor": 1,
+            "p75": 0.00
+          }
+        ]
+      }
+       ,
+      {
+        "version": "4.9.0",
+        "time": "Aug 22, 2024 10:00",
+        "crash": 99.957,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 84,
+            "meh": 16,
+            "poor": 0,
+            "p75": 912
+          },
+          { 
+            "val": "LCP",
+            "good": 99,
+            "meh": 1,
+            "poor": 0,
+            "p75": 992
+          },
+          {
+            "val": "FID",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 29
+          },
+          { 
+            "val":"CLS",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 0.00
+          }
+        ]
+      }   
+      ,
+      {
+        "version": "4.9.1",
+        "time": "Aug 28, 2024 16:14",
+        "crash": 99.951,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 89,
+            "meh": 11,
+            "poor": 1,
+            "p75": 684
+          },
+          { 
+            "val": "LCP",
+            "good": 97,
+            "meh": 3,
+            "poor": 0,
+            "p75": 853
+          },
+          {
+            "val": "FID",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 13
+          },
+          { 
+            "val":"CLS",
+            "good": 98,
+            "meh": 0,
+            "poor": 3,
+            "p75": 0.00
+          }
+        ]
+      },
+      {
+        "version": "4.9.2",
+        "time": "Sep 4, 2024 17:01",
+        "crash": 99.958,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 88,
+            "meh": 10,
+            "poor": 2,
+            "p75": 750
+          },
+          { 
+            "val": "LCP",
+            "good": 97,
+            "meh": 3,
+            "poor": 0,
+            "p75": 1011
+          },
+          {
+            "val": "FID",
+            "good": 89,
+            "meh": 11,
+            "poor": 0,
+            "p75": 23
+          },
+          { 
+            "val":"CLS",
+            "good": 98,
+            "meh": 0,
+            "poor": 2,
+            "p75": 0.00
+          }
+        ]
+      }
+    
+      
+      ,
+      {
+        "version": "4.10.1",
+        "time": "Sep 16, 2024 11:00",
+        "crash": 99.987,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 73,
+            "meh": 23,
+            "poor": 4,
+            "p75": 1012
+          },
+          { 
+            "val": "LCP",
+            "good": 92,
+            "meh": 8,
+            "poor": 0,
+            "p75": 1561
+          },
+          {
+            "val": "FID",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 15
+          },
+          { 
+            "val":"CLS",
+            "good": 85,
+            "meh": 0,
+            "poor": 15,
+            "p75": 0.00
+          }
+        ]
+      } 
+      ,
+      {
+        "version": "4.10.2",
+        "time": "Sep 19, 2024 14:40",
+        "crash": 99.987,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 73,
+            "meh": 22,
+            "poor": 5,
+            "p75": 1091
+          },
+          { 
+            "val": "LCP",
+            "good": 70,
+            "meh": 15,
+            "poor": 15,
+            "p75": 2400
+          },
+          {
+            "val": "FID",
+            "good": 89,
+            "meh": 11,
+            "poor": 0,
+            "p75": 17
+          },
+          { 
+            "val":"CLS",
+            "good": 71,
+            "meh": 0,
+            "poor": 29,
+            "p75": 0.40
+          }
+        ]
+      } 
+    ,
+      {
+        "version": "4.10.3",
+        "time": "Sep 24, 2024 14:36",
+        "crash": 99.987,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 54,
+            "meh": 40,
+            "poor": 6,
+            "p75": 1599
+          },
+          { 
+            "val": "LCP",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 1059
+          },
+          {
+            "val": "FID",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 11
+          },
+          { 
+            "val":"CLS",
+            "good": 57,
+            "meh": 0,
+            "poor": 43,
+            "p75": 0.41
+          }
+        ]
+      }
+      ,
+      {
+        "version": "4.11.0",
+        "time": "Sep 24, 2024 15:32",
+        "crash": 99.961,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 84,
+            "meh": 14,
+            "poor": 2,
+            "p75": 884
+          },
+          { 
+            "val": "LCP",
+            "good": 75,
+            "meh": 25,
+            "poor": 0,
+            "p75": 2258
+          },
+          {
+            "val": "FID",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 10
+          },
+          { 
+            "val":"CLS",
+            "good": 50,
+            "meh": 0,
+            "poor": 50,
+            "p75": 0.43
+          }
+        ]
+      }
+      ,
+      {
+        "version": "4.11.1",
+        "time": "Sep 26, 2024 11:11",
+        "crash": 99.987,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 72,
+            "meh": 25,
+            "poor": 3,
+            "p75": 1014
+          },
+          { 
+            "val": "LCP",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 1188
+          },
+          {
+            "val": "FID",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 21
+          },
+          { 
+            "val":"CLS",
+            "good": 90,
+            "meh": 0,
+            "poor": 10,
+            "p75": 0.00
+          }
+        ]
+      }  
+      ,
+      {
+        "version": "4.11.2",
+        "time": "Sep 30, 2024 16:38",
+        "crash": 99.987,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 70,
+            "meh": 20,
+            "poor": 10,
+            "p75": 1128
+          },
+          { 
+            "val": "LCP",
+            "good": 79,
+            "meh": 14,
+            "poor": 7,
+            "p75": 1903
+          },
+          {
+            "val": "FID",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 22
+          },
+          { 
+            "val":"CLS",
+            "good": 86,
+            "meh": 0,
+            "poor": 14,
+            "p75": 0.00
+          }
+        ]
+      }
+        ,
+      {
+        "version": "4.11.3",
+        "time": "Oct 3, 2024 15:38",
+        "crash": 99.983,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 71,
+            "meh": 23,
+            "poor": 6,
+            "p75": 1230
+          },
+          { 
+            "val": "LCP",
+            "good": 81,
+            "meh": 19,
+            "poor": 0,
+            "p75": 1865
+          },
+          {
+            "val": "FID",
+            "good": 82,
+            "meh": 18,
+            "poor": 0,
+            "p75": 55
+          },
+          { 
+            "val":"CLS",
+            "good": 81,
+            "meh": 0,
+            "poor": 19,
+            "p75": 0.00
+          }
+        ]
+      }
+      ,
+      {
+        "version": "4.13.0",
+        "time": "Nov 2, 2024 17:03",
+        "crash": 99.983,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 70,
+            "meh": 20,
+            "poor": 9,
+            "p75": 987.25
+          },
+          { 
+            "val": "LCP",
+            "good": 88,
+            "meh": 4,
+            "poor": 8,
+            "p75": 1000.12
+          },
+          {
+            "val": "FID",
+            "good": 82,
+            "meh": 18,
+            "poor": 0,
+            "p75": 21.65
+          },
+          { 
+            "val":"CLS",
+            "good": 81,
+            "meh": 0,
+            "poor": 19,
+            "p75": 0.0015
+          }
+        ]
+      }  
+      ,
+      {
+        "version": "4.13.1",
+        "time": "Nov 7, 2024 22:08",
+        "crash": 99.983,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 66,
+            "meh": 27,
+            "poor": 7,
+            "p75": 1000.01
+          },
+          { 
+            "val": "LCP",
+            "good": 91,
+            "meh": 3,
+            "poor": 6,
+            "p75": 1000.29
+          },
+          {
+            "val": "FID",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 26.5
+          },
+          { 
+            "val":"CLS",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 0.0022
+          }
+        ]
+      }  
+      ,
+      {
+        "version": "4.13.2",
+        "time": "Nov 14, 2024 01:36",
+        "crash": 99.983,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 66,
+            "meh": 27,
+            "poor": 7,
+            "p75": 1000.01
+          },
+          { 
+            "val": "LCP",
+            "good": 91,
+            "meh": 3,
+            "poor": 6,
+            "p75": 1000.12
+          },
+          {
+            "val": "FID",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 16.32
+          },
+          { 
+            "val":"CLS",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 0.0013
+          }
+        ]
+      }  
+      ,
+      {
+        "version": "5.0.33",
+        "time": "Nov 14, 2024 17:07",
+        "crash": 99.979,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 70,
+            "meh": 20,
+            "poor": 10,
+            "p75": 767.95
+          },
+          { 
+            "val": "LCP",
+            "good": 82,
+            "meh": 10,
+            "poor": 8,
+            "p75": 909.3
+          },
+          {
+            "val": "FID",
+            "good": 90,
+            "meh": 10,
+            "poor": 0,
+            "p75": 16
+          },
+          { 
+            "val":"CLS",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 0.0012
+          }
+        ]
+      }  ,
+      {
+        "version": "5.0.34",
+        "time": "Nov 18, 2024 17:31",
+        "crash": 99.65,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 85,
+            "meh": 10,
+            "poor": 5,
+            "p75": 717
+          },
+          { 
+            "val": "LCP",
+            "good": 80,
+            "meh": 10,
+            "poor": 10,
+            "p75": 1714
+          },
+          {
+            "val": "FID",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 16
+          },
+          { 
+            "val":"CLS",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 0.0019
+          }
+        ]
+      } 
+      ,
+      {
+        "version": "5.1.0",
+        "time": "Nov 22, 2024 00:07",
+        "crash": 99.97,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 88,
+            "meh": 11,
+            "poor": 1,
+            "p75": 1150
+          },
+          { 
+            "val": "LCP",
+            "good": 67,
+            "meh": 17,
+            "poor": 17,
+            "p75": 1770
+          },
+          {
+            "val": "FID",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 9.8
+          },
+          { 
+            "val":"CLS",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 0.0013
+          }
+        ]
+      } 
+      ,
+      {
+        "version": "5.1.1",
+        "time": "Nov 27, 2024 13:32", 
+        "crash": 99.97,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 43,
+            "meh": 51,
+            "poor": 6,
+            "p75": 816
+          },
+          { 
+            "val": "LCP",
+            "good": 67,
+            "meh": 29,
+            "poor": 4,
+            "p75": 871
+          },
+          {
+            "val": "FID",
+            "good": 95,
+            "meh": 0,
+            "poor": 5,
+            "p75": 20.40
+          },
+          { 
+            "val":"CLS",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 0
+          }
+        ]
+      }
+      ,
+      {
+        "version": "5.1.2",
+        "time": "Nov 27, 2024 14:00", 
+        "crash": 99.97,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 38,
+            "meh": 60,
+            "poor": 2,
+            "p75": 1180
+          },
+          { 
+            "val": "LCP",
+            "good": 60,
+            "meh": 36,
+            "poor": 4,
+            "p75": 3004
+          },
+          {
+            "val": "FID",
+            "good": 50,
+            "meh": 40,
+            "poor": 10,
+            "p75": 121
+          },
+          { 
+            "val":"CLS",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 0.19
+          }
+        ]
+      }
+      ,
+      {
+        "version": "5.1.3",
+        "time": "Nov 27, 2024 17:09", 
+        "crash": 99.97,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 43,
+            "meh": 56,
+            "poor": 3,
+            "p75": 1180
+          },
+          { 
+            "val": "LCP",
+            "good": 65,
+            "meh": 33,
+            "poor": 2,
+            "p75": 3004
+          },
+          {
+            "val": "FID",
+            "good": 66,
+            "meh": 30,
+            "poor": 4,
+            "p75": 106
+          },
+          { 
+            "val":"CLS",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 0.192
+          }
+        ]
+      } 
+      ,
+      {
+        "version": "5.1.4",
+        "time": "Nov 28, 2024 13:06", 
+        "crash": 99.87,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 80,
+            "meh": 20,
+            "poor": 0,
+            "p75": 484
+          },
+          { 
+            "val": "LCP",
+            "good": 67,
+            "meh": 29,
+            "poor": 4,
+            "p75": 512
+          },
+          {
+            "val": "FID",
+            "good": 85,
+            "meh": 10,
+            "poor": 5,
+            "p75": 30
+          },
+          { 
+            "val":"CLS",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 0.0007
+          }
+        ]
+      } 
+      ,
+      {
+        "version": "5.1.5",
+        "time": "Nov 28, 2024 16:16", 
+        "crash": 99.77,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 53,
+            "meh": 41,
+            "poor": 6,
+            "p75": 1470
+          },
+          { 
+            "val": "LCP",
+            "good": 30,
+            "meh": 60,
+            "poor": 10,
+            "p75": 5920
+          },
+          {
+            "val": "FID",
+            "good": 91,
+            "meh": 6,
+            "poor": 3,
+            "p75": 40
+          },
+          { 
+            "val":"CLS",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 0.0002
+          }
+        ]
+      } 
+      ,
+      {
+        "version": "5.2.0",
+        "time": "Nov 28, 2024 17:23", 
+        "crash": 99.905,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 86,
+            "meh": 12,
+            "poor": 2,
+            "p75": 751
+          },
+          { 
+            "val": "LCP",
+            "good": 68,
+            "meh": 28,
+            "poor": 4,
+            "p75": 1440
+          },
+          {
+            "val": "FID",
+            "good": 70,
+            "meh": 30,
+            "poor": 0,
+            "p75": 44.7
+          },
+          { 
+            "val":"CLS",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 0.0017
+          }
+        ]
+      }
+      ,
+      {
+        "version": "5.2.1",
+        "time": "Dec 9, 2024 13:55", 
+        "crash": 99.981,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 95,
+            "meh": 5,
+            "poor": 0,
+            "p75": 735
+          },
+          { 
+            "val": "LCP",
+            "good": 88,
+            "meh": 12,
+            "poor": 0,
+            "p75": 1030
+          },
+          {
+            "val": "FID",
+            "good": 60,
+            "meh": 35,
+            "poor": 5,
+            "p75": 93.5
+          },
+          { 
+            "val":"CLS",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 0.0012
+          }
+        ]
+      }
+      ,
+      {
+        "version": "5.3.0",
+        "time": "Dec 11, 2024 15:24", 
+        "crash": 99.967,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 86,
+            "meh": 12,
+            "poor": 2,
+            "p75": 732
+          },
+          { 
+            "val": "LCP",
+            "good": 72,
+            "meh": 27,
+            "poor": 1,
+            "p75": 1470
+          },
+          {
+            "val": "FID",
+            "good": 80,
+            "meh": 19,
+            "poor": 1,
+            "p75": 21
+          },
+          { 
+            "val":"CLS",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 0.0017
+          }
+        ]
+      }  ,
+      {
+        "version": "5.3.1",
+        "time": "Dec 13, 2024 15:48", 
+        "crash": 99.988,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 88,
+            "meh": 12,
+            "poor": 0,
+            "p75": 782
+          },
+          { 
+            "val": "LCP",
+            "good": 80,
+            "meh": 20,
+            "poor": 0,
+            "p75": 1010
+          },
+          {
+            "val": "FID",
+            "good": 75,
+            "meh": 22,
+            "poor": 3,
+            "p75": 39
+          },
+          { 
+            "val":"CLS",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 0.0014
+          }
+        ]
+      },
+      {
+        "version": "5.3.2",
+        "time": "Dec 18, 2024 18:01", 
+        "crash": 99.977,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 90,
+            "meh": 10,
+            "poor": 0,
+            "p75": 730
+          },
+          { 
+            "val": "LCP",
+            "good": 70,
+            "meh": 30,
+            "poor": 0,
+            "p75": 1390
+          },
+          {
+            "val": "FID",
+            "good": 85,
+            "meh": 15,
+            "poor": 0,
+            "p75": 24
+          },
+          { 
+            "val":"CLS",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 0.0018
+          }
+        ]
+      },
+      {
+        "version": "5.3.3",
+        "time": "Dec 26, 2024 22:10", 
+        "crash": 99.977,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 89,
+            "meh": 11,
+            "poor": 0,
+            "p75": 758
+          },
+          { 
+            "val": "LCP",
+            "good": 85,
+            "meh": 15,
+            "poor": 0,
+            "p75": 1260
+          },
+          {
+            "val": "FID",
+            "good": 85,
+            "meh": 15,
+            "poor": 0,
+            "p75": 30
+          },
+          { 
+            "val":"CLS",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 0.0013
+          }
+        ]
+      },
+      {
+        "version": "5.4.0",
+        "time": "Jan 20, 2025 23:30", 
+        "crash": 99.959,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 76,
+            "meh": 21,
+            "poor": 3,
+            "p75": 730
+          },
+          { 
+            "val": "LCP",
+            "good": 75,
+            "meh": 25,
+            "poor": 0,
+            "p75": 1600
+          },
+          {
+            "val": "FID",
+            "good": 80,
+            "meh": 20,
+            "poor": 0,
+            "p75": 26
+          },
+          { 
+            "val":"CLS",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 0.0013
+          }
+        ]
+      },
+      {
+        "version": "5.4.1",
+        "time": "Jan 22, 2025 15:32", 
+        "crash": 99.949,
+        "comment": "увеличилась метрика FID по метрикам Sentry зафиксировано 429 случаев с 22 по 31 января, проблемы с интерненом по Москве ",
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 62,
+            "meh": 33,
+            "poor": 5,
+            "p75": 716
+          },
+          { 
+            "val": "LCP",
+            "good": 60,
+            "meh": 40,
+            "poor": 0,
+            "p75": 1200
+          },
+          {
+            "val": "FID",
+            "good": 55,
+            "meh": 33,
+            "poor": 12,
+            "p75": 135
+          },
+          { 
+            "val":"CLS",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 0.0013
+          }
+        ]
+      },
+      {
+        "version": "5.5.0",
+        "time": "Jan 30, 2025 23:33", 
+        "crash": 99.949,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 80,
+            "meh": 20,
+            "poor": 0,
+            "p75": 742
+          },
+          { 
+            "val": "LCP",
+            "good": 85,
+            "meh": 15,
+            "poor": 0,
+            "p75": 1560
+          },
+          {
+            "val": "FID",
+            "good": 95,
+            "meh": 5,
+            "poor": 0,
+            "p75": 55
+          },
+          { 
+            "val":"CLS",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 0.0016
+          }
+        ]
+      },
+      {
+        "version": "5.6.0",
+        "time": "Feb 03, 2025 13:22", 
+        "crash": 99.974,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 66,
+            "meh": 32,
+            "poor": 2,
+            "p75": 729
+          },
+          { 
+            "val": "LCP",
+            "good": 70,
+            "meh": 30,
+            "poor": 0,
+            "p75": 1230
+          },
+          {
+            "val": "FID",
+            "good": 65,
+            "meh": 25,
+            "poor": 10,
+            "p75": 131
+          },
+          { 
+            "val":"CLS",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 0.0012
+          }
+        ]
+      }
+      ,
+      {
+        "version": "5.6.1",
+        "time": "Feb 10, 2025 14:00", 
+        "crash": 99.974,
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 80,
+            "meh": 20,
+            "poor": 0,
+            "p75": 762
+          },
+          { 
+            "val": "LCP",
+            "good": 95,
+            "meh": 5,
+            "poor": 0,
+            "p75": 986
+          },
+          {
+            "val": "FID",
+            "good": 40,
+            "meh": 45,
+            "poor": 15,
+            "p75": 309
+          },
+          { 
+            "val":"CLS",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 0.0014
+          }
+        ]
+      }
+      ,
+      {
+        "version": "5.7.0",
+        "time": "Feb 13, 2025 23:35", 
+        "crash": 99.960,
+        "comment": "1799968212, 1799992436, 1799889193, 1799891213 множественные вызовы на вкладке /main/done-tab GET https://mobile-courier.vkusvill.ru/api/sql/exec/?func=Loyalty.dbo.Delivery_Courier_Terminal_GetReturn",
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 57,
+            "meh": 33,
+            "poor": 11,
+            "p75": 703
+          },
+          { 
+            "val": "LCP",
+            "good": 96,
+            "meh": 4,
+            "poor": 0,
+            "p75": 1070
+          },
+          {
+            "val": "FID",
+            "good": 85,
+            "meh": 15,
+            "poor": 0,
+            "p75": 30.7
+          },
+          { 
+            "val":"CLS",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 0.0013
+          }
+        ]
+      },
+      {
+        "version": "5.8.0",
+        "time": "Feb 20, 2025 23:30", 
+        "crash": 99.899,
+        "comment": "Переработан механизм роутинга, Удален UI-фрэймворк + заменены календари, ручка /ping ",
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 90,
+            "meh": 10,
+            "poor": 0,
+            "p75": 622
+          },
+          { 
+            "val": "LCP",
+            "good": 80,
+            "meh": 20,
+            "poor": 0,
+            "p75": 2200
+          },
+          {
+            "val": "FID",
+            "good": 100,
+            "meh": 0,
+            "poor": 0,
+            "p75": 8.2
+          },
+          { 
+            "val":"CLS",
+            "good": 85,
+            "meh": 15,
+            "poor": 0,
+            "p75": 0.2999
+          }
+        ]
+      },
+      {
+        "version": "5.8.1",
+        "time": "Feb 21, 2025 17:30", 
+        "crash": 99.899,
+        "comment": "хотфикс",
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 59,
+            "meh": 41,
+            "poor": 0,
+            "p75": 664
+          },
+          { 
+            "val": "LCP",
+            "good": 96,
+            "meh": 4,
+            "poor": 0,
+            "p75": 1190
+          },
+          {
+            "val": "FID",
+            "good": 56,
+            "meh": 28,
+            "poor": 17,
+            "p75": 73.2
+          },
+          { 
+            "val":"CLS",
+            "good": 80,
+            "meh": 20,
+            "poor": 0,
+            "p75": 0.3841
+          }
+        ]
+      },
+      {
+        "version": "5.8.2",
+        "time": "Feb 27, 2025 17:30", 
+        "crash": 99.800,
+        "result": 73,
+        "comment": "хотфикс",
+        "metric": [ 
+          { 
+            "val": "FCP",
+            "good": 90,
+            "meh": 10,
+            "poor": 0,
+            "p75": 577
+          },
+          { 
+            "val": "LCP",
+            "good": 83,
+            "meh": 17,
+            "poor": 0,
+            "p75": 1550
+          },
+          {
+            "val": "FID",
+            "good": 50,
+            "meh": 45,
+            "poor": 5,
+            "p75": 91.47
+          },
+          { 
+            "val":"CLS",
+            "good": 75,
+            "meh": 25,
+            "poor": 0,
+            "p75": 0.4168
+          }
+        ]
+      }                                                          
+]
