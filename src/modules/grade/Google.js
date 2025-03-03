@@ -11,7 +11,7 @@ const GoogleGrade = () => {
       delta: "",
     },
     {
-      type: '+1 ★★★★',
+      type: '★★★★',
       count: 76,
       delta: "",
     },
@@ -21,12 +21,12 @@ const GoogleGrade = () => {
       delta: "",
     },
     {
-      type: '+2 ★★',
+      type: '★★',
       count: 56,
       delta: "",
     },
     {
-      type: '+1 ★',
+      type: '★',
       count: 427,
       delta: "",
     }
@@ -74,20 +74,20 @@ const GoogleGrade = () => {
         <Popover content={content1} title="Информация" trigger="hover">
         <div style={{marginBottom: '10px'}}>Оценка (по умолчании)</div>
         <h2 style={{margin: '0'}}><StarFilled /> 2.990 </h2>
-        <small>+0.09</small>
+        <small></small>
         </Popover>
       </div> 
       <div>
         <Popover content={content2} title="Информация" trigger="hover">
         <div style={{marginBottom: '10px'}}>Средняя оценка (за все время)</div>
         <h2 style={{margin: '0'}}><StarFilled /> 2.991 </h2>
-        <small> +0.003</small>
+        <small> </small>
         </Popover>
       </div>  
       <div>
         <div style={{marginBottom: '10px'}}>Оценки:</div>
-        <div><h2 style={{margin: '0'}}>1048 </h2>
-        <small> +4</small></div>
+        <div><h2 style={{margin: '0'}}>1049 </h2>
+        <small> </small></div>
       </div>
       {/* <div>
         <div style={{marginBottom: '10px'}}>Оценки с отзывами:</div>

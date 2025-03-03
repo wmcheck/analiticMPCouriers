@@ -5,7 +5,7 @@ import { Bar } from '@ant-design/plots';
 const RustoreGrade = () => {
   const data = [
     {
-      type: '+1 ★★★★★',
+      type: '★★★★★',
       count: 24,
       delta: "",
     },
@@ -64,7 +64,7 @@ const RustoreGrade = () => {
       </div>  
       <div>
         <div style={{marginBottom: '10px'}}>Оценки:</div>
-        <div><h2 style={{margin: '0'}}> 52</h2> <small> +1 </small></div>
+        <div><h2 style={{margin: '0'}}> 52</h2> <small> </small></div>
       </div>
     </div>  
     <Bar style={{height: '100px'}} {...config} />
