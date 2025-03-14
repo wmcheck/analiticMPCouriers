@@ -22,7 +22,7 @@ const Review = (props) => {
                 <div key={post.text}   >       
                   <p>
                     <b>{post.name}</b> {post.date} <Rate disabled defaultValue={post.grade} /><br/>
-                    <small>{post.device} {post.os}</small>
+                    <small>{post.device} {post.os} Версия приложения: {post.app}</small>
                   </p>
                   {/* <p><Rate disabled defaultValue={post.grade} /></p> */}
                   {/* {post.info ? <Tag color="processing">Предложение</Tag> : <></>} */}

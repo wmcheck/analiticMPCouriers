@@ -5,8 +5,8 @@ import { Bar } from '@ant-design/plots';
 const AppleGrade = () => {
   const data = [
     {
-      type: '★★★★★',
-      count: 82,
+      type: '+1 ★★★★★',
+      count: 83,
       delta: "",
     },
     {
@@ -15,7 +15,7 @@ const AppleGrade = () => {
       delta: "",
     },
     {
-      type: '+1 ★★★',
+      type: '★★★',
       count: 42,
       delta: "",
     },
@@ -25,8 +25,8 @@ const AppleGrade = () => {
       delta: "",
     },
     {
-      type: '★',
-      count: 127,
+      type: '+2 ★',
+      count: 129,
       delta: "",
     }
   ];
@@ -63,7 +63,7 @@ const AppleGrade = () => {
       </div>  
       <div>
         <div style={{marginBottom: '10px'}}>Пользователи:</div>
-        <div><h2 style={{margin: '0'}}>311 </h2><small>+ 1</small></div>
+        <div><h2 style={{margin: '0'}}>314 </h2><small>+ 3</small></div>
       </div>
     </div>  
     <Bar style={{height: '100px'}} {...config} />
