@@ -25,8 +25,8 @@ const AppleGrade = () => {
       delta: "",
     },
     {
-      type: '★',
-      count: 129,
+      type: '+1 ★',
+      count: 130,
       delta: "",
     }
   ];
@@ -63,7 +63,7 @@ const AppleGrade = () => {
       </div>  
       <div>
         <div style={{marginBottom: '10px'}}>Пользователи:</div>
-        <div><h2 style={{margin: '0'}}>314 </h2><small></small></div>
+        <div><h2 style={{margin: '0'}}>315 </h2><small>+1</small></div>
       </div>
     </div>  
     <Bar style={{height: '100px'}} {...config} />
