@@ -58,11 +58,15 @@ const AppGalleryGrade = () => {
       </div>  
       <div>
         <div style={{marginBottom: '10px'}}>Средняя оценка</div>
-        <h2 style={{margin: '0'}}><StarFilled /> 3</h2><small></small>
+          <h2 style={{margin: '0'}}><StarFilled /> 3</h2>
+          <small></small>
       </div>  
       <div>
         <div style={{marginBottom: '10px'}}>Оценок:</div>
-        <div><h2 style={{margin: '0'}}> 2</h2> <small></small></div>
+        <div>
+          <h2 style={{margin: '0'}}> 2</h2> 
+          <small></small>
+        </div>
       </div>
     </div>  
     <Bar style={{height: '100px'}} {...config} />

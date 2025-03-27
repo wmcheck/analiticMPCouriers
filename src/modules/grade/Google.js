@@ -6,13 +6,13 @@ import { Popover } from 'antd';
 const GoogleGrade = () => {
   const data = [
     {
-      type: '★★★★★',
-      count: 446,
+      type: '+2 ★★★★★',
+      count: 448,
       delta: "",
     },
     {
-      type: '★★★★',
-      count: 77,
+      type: '+1 ★★★★',
+      count: 78,
       delta: "",
     },
     {
@@ -26,7 +26,7 @@ const GoogleGrade = () => {
       delta: "",
     },
     {
-      type: '+1 ★',
+      type: '★',
       count: 432,
       delta: "",
     }
@@ -73,27 +73,23 @@ const GoogleGrade = () => {
       <div>
         <Popover content={content1} title="Информация" trigger="hover">
         <div style={{marginBottom: '10px'}}>Оценка (по умолчании)</div>
-        <h2 style={{margin: '0'}}><StarFilled /> 2.868 </h2>
-        <small> </small>
+        <h2 style={{margin: '0'}}><StarFilled /> 2.888 </h2>
+        <small> +0.020</small>
         </Popover>
       </div> 
       <div>
         <Popover content={content2} title="Информация" trigger="hover">
         <div style={{marginBottom: '10px'}}>Средняя оценка (за все время)</div>
-        <h2 style={{margin: '0'}}><StarFilled /> 2.989 </h2>
-        <small> </small>
+          <h2 style={{margin: '0'}}><StarFilled /> 2.992 </h2>
+          <small> +0.003</small>
         </Popover>
       </div>  
       <div>
         <div style={{marginBottom: '10px'}}>Оценки:</div>
-        <div><h2 style={{margin: '0'}}>1061 </h2>
-        <small></small></div>
+          <div><h2 style={{margin: '0'}}>1063 </h2>
+          <small>+3</small>
+        </div>
       </div>
-      {/* <div>
-        <div style={{marginBottom: '10px'}}>Оценки с отзывами:</div>
-        <div><h2 style={{margin: '0'}}>516</h2> 
-        <small></small></div>
-      </div> */}
     </div>
 
     <div>

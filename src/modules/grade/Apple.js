@@ -25,7 +25,7 @@ const AppleGrade = () => {
       delta: "",
     },
     {
-      type: '+1 ★',
+      type: '★',
       count: 130,
       delta: "",
     }
@@ -59,11 +59,14 @@ const AppleGrade = () => {
       </div>  
       <div>
         <div style={{marginBottom: '10px'}}>Средняя оценка</div>
-        <h2 style={{margin: '0'}}><StarFilled /> 2.7 </h2><small></small>
+          <h2 style={{margin: '0'}}><StarFilled /> 2.7 </h2>
+          <small></small>
       </div>  
       <div>
         <div style={{marginBottom: '10px'}}>Пользователи:</div>
-        <div><h2 style={{margin: '0'}}>315 </h2><small>+1</small></div>
+          <div><h2 style={{margin: '0'}}>315 </h2>
+          <small></small>
+        </div>
       </div>
     </div>  
     <Bar style={{height: '100px'}} {...config} />

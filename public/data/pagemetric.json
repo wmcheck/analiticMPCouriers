@@ -811,56 +811,115 @@
             { 
                 "ident": "/main/my-tab",
                 "name": "МОИ",
-                "good": 95,
-                "meh": 5,
+                "good": 94,
+                "meh": 6,
                 "poor": 0,
                 "p75": 1.00, 
-                "p95": 2.53
+                "p95": 2.55
             },
             { 
                 "ident": "/main/done-tab",
                 "name": "ДОСТУПНЫЕ",
-                "good": 89,
-                "meh": 11,
+                "good": 90,
+                "meh": 10,
                 "poor": 0,
-                "p75": 1.05,
-                "p95": 2.26 
+                "p75": 1.01,
+                "p95": 2.28 
             },  
             { 
                 "ident": "/main/prepare-tab",
                 "name": "СБОРКА",
-                "good": 97,
-                "meh": 3,
+                "good": 93,
+                "meh": 7,
                 "poor": 0,
-                "p75": 0.709,
-                "p95": 1.62
+                "p75": 0.708,
+                "p95": 1.67
             },
             { 
                 "ident": "/main/queue-tab",
                 "name": "ОЧЕРЕДЬ",
-                "good": 56,
-                "meh": 44,
+                "good": 67,
+                "meh": 33,
                 "poor": 0,
-                "p75": 0.847,
+                "p75": 0.842,
                 "p95": 1.95
             },
             { 
                 "ident": "/main/profile-tab",
                 "name": "ПРОФИЛЬ",
-                "good": 89,
-                "meh": 11,
+                "good": 93,
+                "meh": 7,
                 "poor": 0,
-                "p75": 0.954,
-                "p95": 2.07 
+                "p75": 0.958,
+                "p95": 2.08 
             },
             { 
                 "ident": "/order",
                 "name": "ЗАКАЗ",
-                "good": 89,
-                "meh": 10,
+                "good": 86,
+                "meh": 13,
                 "poor": 1,
-                "p75": 1.00,
-                "p95": 2.23
+                "p75": 0.996,
+                "p95": 2.15
+            }
+        ]
+    },     
+    {
+        "version": "5.10.2", 
+        "tab": [
+            { 
+                "ident": "/main/my-tab",
+                "name": "МОИ",
+                "good": 94,
+                "meh": 6,
+                "poor": 0,
+                "p75": 1.00, 
+                "p95": 2.55
+            },
+            { 
+                "ident": "/main/done-tab",
+                "name": "ДОСТУПНЫЕ",
+                "good": 90,
+                "meh": 10,
+                "poor": 0,
+                "p75": 1.01,
+                "p95": 2.28 
+            },  
+            { 
+                "ident": "/main/prepare-tab",
+                "name": "СБОРКА",
+                "good": 93,
+                "meh": 7,
+                "poor": 0,
+                "p75": 0.708,
+                "p95": 1.67
+            },
+            { 
+                "ident": "/main/queue-tab",
+                "name": "ОЧЕРЕДЬ",
+                "good": 67,
+                "meh": 33,
+                "poor": 0,
+                "p75": 0.842,
+                "p95": 1.95
+            },
+            { 
+                "ident": "/main/profile-tab",
+                "name": "ПРОФИЛЬ",
+                "good": 93,
+                "meh": 7,
+                "poor": 0,
+                "p75": 0.958,
+                "p95": 2.08 
+            },
+            { 
+                "ident": "/order",
+                "name": "ЗАКАЗ",
+                "good": 86,
+                "meh": 13,
+                "poor": 1,
+                "p75": 0.996,
+                "p95": 2.15
             }
         ]
     }
