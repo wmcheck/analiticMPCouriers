@@ -27,7 +27,8 @@
 { "version": "5.8.1", "time": "Feb 21, 2025 17:30", "result": 70},
 { "version": "5.8.2", "time": "Feb 27, 2025 17:30", "result": 74},
 { "version": "5.9.0", "time": "Mar 05, 2025 23:30", "result": 77},
-{ "version": "5.9.1", "time": "Mar 12, 2025 23:40", "result": 77},
-{ "version": "5.10.0", "time": "Mar 20, 2025 14:30", "result": 77},
-{ "version": "5.10.1", "time": "Mar 21, 2025 14:30", "result": 77}
+{ "version": "5.9.1", "time": "Mar 12, 2025 23:40", "result": 82},
+{ "version": "5.10.0", "time": "Mar 20, 2025 14:30", "result": 93},
+{ "version": "5.10.1", "time": "Mar 21, 2025 14:30", "result": 85},
+{ "version": "5.10.2", "time": "Mar 27, 2025 14:30", "result": 85}
 ]

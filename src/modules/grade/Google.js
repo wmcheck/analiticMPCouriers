@@ -73,20 +73,20 @@ const GoogleGrade = () => {
       <div>
         <Popover content={content1} title="Информация" trigger="hover">
         <div style={{marginBottom: '10px'}}>Оценка (по умолчании)</div>
-        <h2 style={{margin: '0'}}><StarFilled /> 2.888 </h2>
-        <small> +0.020</small>
+        <h2 style={{margin: '0'}}><StarFilled /> 2.963 </h2>
+        <small> </small>
         </Popover>
       </div> 
       <div>
         <Popover content={content2} title="Информация" trigger="hover">
         <div style={{marginBottom: '10px'}}>Средняя оценка (за все время)</div>
-          <h2 style={{margin: '0'}}><StarFilled /> 2.992 </h2>
-          <small> +0.003</small>
+          <h2 style={{margin: '0'}}><StarFilled /> 2.996 </h2>
+          <small> </small>
         </Popover>
       </div>  
       <div>
         <div style={{marginBottom: '10px'}}>Оценки:</div>
-          <div><h2 style={{margin: '0'}}>1063 </h2>
+          <div><h2 style={{margin: '0'}}>1065 </h2>
           <small>+3</small>
         </div>
       </div>
