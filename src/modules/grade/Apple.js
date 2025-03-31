@@ -6,7 +6,7 @@ const AppleGrade = () => {
   const data = [
     {
       type: '★★★★★',
-      count: 83,
+      count: 84,
       delta: "",
     },
     {
@@ -64,7 +64,7 @@ const AppleGrade = () => {
       </div>  
       <div>
         <div style={{marginBottom: '10px'}}>Пользователи:</div>
-          <div><h2 style={{margin: '0'}}>315 </h2>
+          <div><h2 style={{margin: '0'}}>316 </h2>
           <small></small>
         </div>
       </div>

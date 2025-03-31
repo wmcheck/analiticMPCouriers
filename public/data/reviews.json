@@ -1,7 +1,14 @@
 {
     "android": [  
-        
-        
+        {
+            "name": "ALEX ANT",
+            "date": "28 мар. 2025 г., 16:25",
+            "device": "Tecno TECNO SPARK 20 Pro+",
+            "app": "5.5.1",
+            "os": "Android 14 (SDK 34)",
+            "grade": 1,
+            "text": "постоянно тормозит! пока не перезагрузишь."
+        },         
         {
             "name": "Валера",
             "date": "25 мар. 2025 г., 21:36",

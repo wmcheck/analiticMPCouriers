@@ -66,7 +66,7 @@ const RustoreGrade = () => {
       <div>
         <div style={{marginBottom: '10px'}}>Оценки:</div>
         <div>
-          <h2 style={{margin: '0'}}> 53</h2> 
+          <h2 style={{margin: '0'}}> 54</h2> 
           <small> </small>
         </div>
       </div>

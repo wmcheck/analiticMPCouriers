@@ -46,7 +46,7 @@ function App() {
       <div style={{
         color: 'white',
         fontSize: 'xx-large'
-        }}>Метрики МП "Курьеры" <small>28.03.2025</small></div>
+        }}>Метрики МП "Курьеры" <small>31.03.2025</small></div>
 
       </Header>
       <Content
